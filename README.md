@@ -15,3 +15,4 @@
 9. [TP2(Diseño de una clínica con colas de urgencia, aplicaciones de las estructuras de datos de la parte dos)](https://github.com/tvillegas98/Algoritmos-y-Programacion-II/tree/main/tp2)
 10. [TP3(Grafos, algoritmos básicos de grafos, BFS, DFS, PageRank, Pagerank Personalizado, Clustering)](https://github.com/tvillegas98/Algoritmos-y-Programacion-II/tree/main/tp3)
 
+#### __Todos los trabajos prácticos fueron realizados en el lenguaje C, a excepción del TP3, que fue realizado en Python.__
