@@ -1,4 +1,4 @@
-# Algoritmos y Programacion II, Cátedra Buchwald
+# Algoritmos y Programacion I
 ##  __Trabajos prácticos realizados a lo largo del curso.__
 ***
 ### *__Primera parte__*
